@@ -1,0 +1,16 @@
+{
+  "name": "test7",
+  "main": "test7",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "test7 ทดลอง",
+  "keywords": [
+    "test7",
+    "ทดลอง"
+  ],
+  "repository": "https://github.com/peachy23ph/test7",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
