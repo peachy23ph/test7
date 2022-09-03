@@ -1,6 +1,6 @@
 {
-  "name": "test7",
-  "main": "test7",
+  "name": "test7-syntax",
+  "main": "test7-syntax",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "test7 ทดลอง",
@@ -8,9 +8,20 @@
     "test7",
     "ทดลอง"
   ],
-  "repository": "https://github.com/peachy23ph/test7",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peachy23ph/test7.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/peachy23ph/test7/issues"
+  },
+  "homepage": "https://github.com/peachy23ph/test7#readme",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": ""
 }
